@@ -22,10 +22,10 @@ My focus was on quantifying writing style, narrative structure and character dyn
 - *The Count of Monte Cristo* is the most expansive narrative but has the lowest TTR (which is normal because book is very long).
 
 
-TTR Comparison Bar
+<p align="center">TTR Comparison Bar</p>
 <img src="plots/ttr_comparison.png" width=500>
 
-Sentence Length Comparison Bar
+<p align="center">Sentence Length Comparison Bar</p>
 <img src="plots/sentence_lenght_comparison.png" width=500>
 
 
