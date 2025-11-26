@@ -1,6 +1,10 @@
 # Python virtual environment
 .venv/
 
+# Conda environments
+env/
+.conda/
+
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
