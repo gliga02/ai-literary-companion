@@ -23,10 +23,14 @@ My focus was on quantifying writing style, narrative structure and character dyn
 
 
 <p align="center">TTR Comparison Bar</p>
+<p align="center">
 <img src="plots/ttr_comparison.png" width=500>
+</p>
 
 <p align="center">Sentence Length Comparison Bar</p>
+<p align="center">
 <img src="plots/sentence_lenght_comparison.png" width=500>
+</p>
 
 
 ## Character Mention Analysis
@@ -34,16 +38,18 @@ My focus was on quantifying writing style, narrative structure and character dyn
 I extracted names of the most important characters of each novel and computed total mention counts.
 
 ### Crime and Punishment
-
+<p align="center">
 <img src="plots/cnp_relationship_heatmap.png" width=500>
+</p>
 
 - Raskolnikov overwhelmingly dominates mentions
 - Sonya, Dunya, and Porfiry form secondary character clusters
 - From the heatmap we can see interaction patterns and family circles
 
 ### The Count of Monte Cristo
-
+<p align="center">
 <img src="plots/cmc_releationship_heatmap.png" width=500>
+</p>
 
 - Edmond Dantes and Villefort appear with high frequencies
 - Their strong co-occurence mirrors the central revenge arc
