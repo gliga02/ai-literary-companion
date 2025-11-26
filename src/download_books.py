@@ -11,7 +11,7 @@ os.makedirs(RAW_DATA_DIR, exist_ok=True)
 BOOKS = {
     "crime_and_punishment.txt": "https://gutenberg.org/cache/epub/2554/pg2554.txt",
     "great_expectations.txt": "https://gutenberg.org/cache/epub/1400/pg1400.txt",
-    "the_count_of_monte_christo": "https://gutenberg.org/cache/epub/1184/pg1184.txt",
+    "the_count_of_monte_christo.txt": "https://gutenberg.org/cache/epub/1184/pg1184.txt",
 }
 
 def download_book(filename: str, url: str) -> None:
